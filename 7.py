@@ -1,5 +1,5 @@
-a=int(input())
-b=int(input())
-x=int(input())
-y=int(input())
-print
+a=int(input('введите количество шок'))
+b=int(input('введите цену шок'))
+x=int(input('введите количество бут'))
+y=int(input('введите цену бут'))
+print(a*b + x*y)
