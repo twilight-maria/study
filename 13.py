@@ -1,6 +1,5 @@
-x=int(input())
 a=int(input())
-b=int(input())
-print(a+b+x)
+s=a//100+a//10%10+a%10
+print(s)
 
 # переделать

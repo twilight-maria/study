@@ -1,6 +1,7 @@
 a=int(input())
-b=int(input())
-x=int(input())
-x=
+print(a%10)
+print(a//10%10)
+print(a//100)
+print(a )
 
 # переделать

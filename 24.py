@@ -1,4 +1,5 @@
 a=int(input())
-print(a/3 and not a/5)
+print(a%3==0 and not a%5==0)
+
 
 # переделать
