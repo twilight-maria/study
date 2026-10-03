@@ -1,0 +1,5 @@
+a=int(input())
+if a>0:
+    print('положительное')
+else:
+    print('отрицательно')
