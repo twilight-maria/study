@@ -1,2 +1,6 @@
-a=input()
-while a!='python123':
+while True:
+    a=input()
+    if a=='python123':
+        print('доступ разрешен')
+
+

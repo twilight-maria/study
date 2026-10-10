@@ -1,3 +1,5 @@
-a=int(input())
-while a<=0:
-    print('спасибо')
+while True:
+    a=int(input())
+    if a>0:
+        print('спасибо')
+        break
