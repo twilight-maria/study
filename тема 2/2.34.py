@@ -1,12 +1,14 @@
 a=int(input())
 b=int(input())
 c=int(input())
+d=0
 if a>=5000:
     d=10
 elif c==1:
     d=5
 else:
     d=0
+e=0
 if b>=65:
     e=5
 else:
