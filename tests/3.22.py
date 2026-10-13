@@ -1,4 +1,5 @@
 a=int(input())
+#22
 b=0
 for _ in range(a):
     c=int(input())
