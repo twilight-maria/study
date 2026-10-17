@@ -1,5 +1,5 @@
-   a=int(input())
-   for i in range(1,a+1):
-       if a%2==0:
+   n=int(input())
+   for x in range(1,n+1):
+       if x%2==0:
            continue
-   print(a)
+   print(x)
